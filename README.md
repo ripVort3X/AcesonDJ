@@ -17,3 +17,5 @@ All dependencies that I used in this Project.
     "ytdl-core": "^4.11.2"
     
 I'm giving this info so you don't install other version and get error in code.
+
+Just use npm i in terminal after installing code.
