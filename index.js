@@ -10,4 +10,4 @@ const client = new Discord.Client({
   require(`./handlers/${handler}`)(client, Discord)
  })
 
-client.login('MTA1MjU3MjM1MDAwMTk3NTMxNw.G7KFit.V8X0HiWXqjxLx3_7T-5bUH86kTJgQKNGTF5mcU')
+client.login('your_bots_token')
