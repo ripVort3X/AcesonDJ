@@ -18,6 +18,10 @@ module.exports = {
           value: 'Prefix is **+**',
         },
         {
+          name: '+help',
+          value: 'Use this command to get this all commands name and info!',
+        },
+        {
           name: '+test',
           value: 'Use this command to check our bot is online or not!',
         },
