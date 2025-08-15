@@ -1,21 +1,50 @@
-# AcesonDJ
-A music discord bot that works with YouTube link. I created it with Discord JS 13. You can use it anywhere.
+<h1 align="center">AcesonDJ 🎶</h1>
 
-All dependencies that I used in this Project.
-    "@discordjs/opus": "^0.9.0",
-    "@discordjs/voice": "^0.14.0",
-    "@types/node": "^18.0.6",
-    "discord.js": "^13.10.3",
-    "express": "^4.18.2",
-    "ffmpeg": "^0.0.4",
-    "ffmpeg-static": "^5.1.0",
-    "fs": "^0.0.1-security",
-    "libsodium-wrappers": "^0.7.10",
-    "node-fetch": "^3.2.6",
-    "npm": "^9.2.0",
-    "yt-search": "^2.10.3",
-    "ytdl-core": "^4.11.2"
-    
-I'm giving this info so you don't install other version and get error in code.
+<p align="center"><b>Discord Music Bot built with Discord.js</b> 🤖</p>
 
-Just use npm i in terminal after installing code.
+[![GitHub Stars](https://img.shields.io/github/stars/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/issues)
+[![License](https://img.shields.io/github/license/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/blob/master/LICENSE)
+
+---
+
+### 🚀 Features
+
+✅ **Music playback**: Play your favorite songs with ease!
+✅ **Voice Channel Support**: Join or create voice channels and play music with friends.
+✅ **Command Handler**: Easily manage music playback with intuitive commands.
+✅ **Event Handler**: Respond to various events, such as song finishes or user joins.
+
+---
+
+### 📦 Installation
+
+To install the bot, run the following command:
+```
+npm install
+```
+Then, set up your bot by creating a `config.json` file with your bot token and other settings.
+
+---
+
+### ⚙️ Usage
+
+ Invite the bot to your Discord server and use the following commands:
+```
+!play <song_name/url> - Play a song
+!skip - Skip to the next song
+!stop - Stop music playback
+!help - Display available commands
+```
+---
+
+### 🤝 Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+
+---
+
+---
+
+<p align="center">⭐ Star this repo if you like it! ❤️ Made with love by ripVort3X.</p>
