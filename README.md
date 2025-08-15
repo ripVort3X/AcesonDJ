@@ -1,50 +1,42 @@
-<h1 align="center">AcesonDJ 🎶</h1>
-
-<p align="center"><b>Discord Music Bot built with Discord.js</b> 🤖</p>
-
-[![GitHub Stars](https://img.shields.io/github/stars/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/issues)
-[![License](https://img.shields.io/github/license/ripVort3X/AcesonDJ?style=flat-square)](https://github.com/ripVort3X/AcesonDJ/blob/master/LICENSE)
+<h1 align="center">AcesonDJ</h1>
+<p align="center"><b>Discord Bot built with discord.js</b> 🚀</p>
 
 ---
 
 ### 🚀 Features
 
--✅ **Music playback**: Play your favorite songs with ease!
--✅ **Voice Channel Support**: Join or create voice channels and play music with friends.
--✅ **Command Handler**: Easily manage music playback with intuitive commands.
--✅ **Event Handler**: Respond to various events, such as song finishes or user joins.
+* ✅ Built with discord.js for seamless Discord API interaction
+* 🔥 Supports various command handlers for easy extensibility
+* ⚡ Fast and efficient event handling
 
 ---
 
 ### 📦 Installation
 
-To install the bot, run the following command:
-```
-npm install
-```
-Then, set up your bot by creating a `config.json` file with your bot token and other settings.
+Install dependencies by running `npm install` in your terminal.
 
 ---
 
 ### ⚙️ Usage
 
- Invite the bot to your Discord server and use the following commands:
+```bash
+node index.js
 ```
-!play <song_name/url> - Play a song
-!skip - Skip to the next song
-!stop - Stop music playback
-!help - Display available commands
-```
+Make sure to replace `your_bots_token` with your actual bot token in `index.js`.
+
 ---
 
 ### 🤝 Contributing
 
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+Contributions are always welcome! Fork this repository, make your changes, and create a pull request.
 
 ---
 
+### 📜 License
+
+This project is licensed under the ISC License.
+
 ---
 
-<p align="center">⭐ Star this repo if you like it! ❤️ Made with love by ripVort3X.</p>
+<p align="center">⭐ Star this repo if you like it!</p>
+<p align="center">Made with ❤️ by the team.</p>
