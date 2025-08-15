@@ -11,10 +11,10 @@
 
 ### 🚀 Features
 
-✅ **Music playback**: Play your favorite songs with ease!
-✅ **Voice Channel Support**: Join or create voice channels and play music with friends.
-✅ **Command Handler**: Easily manage music playback with intuitive commands.
-✅ **Event Handler**: Respond to various events, such as song finishes or user joins.
+-✅ **Music playback**: Play your favorite songs with ease!
+-✅ **Voice Channel Support**: Join or create voice channels and play music with friends.
+-✅ **Command Handler**: Easily manage music playback with intuitive commands.
+-✅ **Event Handler**: Respond to various events, such as song finishes or user joins.
 
 ---
 
